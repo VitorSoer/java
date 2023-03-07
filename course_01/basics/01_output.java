@@ -1,4 +1,4 @@
-public class output {
+public class intro {
 
 	public static void main(String[] args) {
 		String username = "Jhon Doe";
