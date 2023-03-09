@@ -1,4 +1,4 @@
-public class intro {
+public class Intro {
 
 	public static void main(String[] args) {
 		double squareRoot = Math.sqrt(4.0);
